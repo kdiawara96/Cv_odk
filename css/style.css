@@ -107,8 +107,40 @@ box-shadow: 10 35px 55px rgba(0, 0, 0, 0.1), -10 35px 55px rgba(0, 0, 0, 0.1);
     display: inline-block;
     width: 18px;
     font-size: 18px;
-    color: #ecedef;
+    color:#003147;
 }
+
+.contactInfo ul li span
+{
+   font-weight: 300;
+    color: #fff;
+}
+
+.contactInfo.education li 
+{
+    margin-bottom: 15px;
+}
+.contactInfo.education h5 
+{
+    color: #003147;
+    font-weight: 500;
+}
+
+.contactInfo.education h4:nth-child(2)
+{
+    color: #fff;
+    font-weight: 500;
+    
+}
+.contactInfo.education h4
+{
+    color: #fff;
+    font-weight: 300;
+    
+}
+
+
+
 
 
 
