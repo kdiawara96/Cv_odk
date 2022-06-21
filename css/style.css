@@ -149,7 +149,7 @@ box-shadow: 10 35px 55px rgba(0, 0, 0, 0.1), -10 35px 55px rgba(0, 0, 0, 0.1);
     display: block;
     margin-top: 5px;
 }
-.contactInfo.language .percent div
+.contactInfo.language .percent em
 {
     position: absolute;
     top: 0;
@@ -158,7 +158,7 @@ box-shadow: 10 35px 55px rgba(0, 0, 0, 0.1), -10 35px 55px rgba(0, 0, 0, 0.1);
     background: #081921;
 }
 
-/*/////////////// Style of page two ////////////////*/
+/*/////////////// Style of page two //////////////*/
 
 .container .right_Side
 {
