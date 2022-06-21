@@ -186,17 +186,30 @@ p
 }
 .solution
 {
-    margin-top: 10px;
     text-align: justify;
 }
-.puce
-{
-    margin-top:20px ;
 
-}
 .puce li
 {
     color: #333;
-    margin-left: 40px;
+    margin-top: 10px;
+    margin-left: 30px;
     text-align: justify;
+}
+.about .box 
+{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0;
+}
+.about .box .year_company
+{
+    min-width: 195px;
+
+}
+.about .box .year_company h5 
+{
+    text-transform: uppercase;
+    margin-top: 5px;
+    color: #848c90;
 }
