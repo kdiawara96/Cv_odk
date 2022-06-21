@@ -31,7 +31,7 @@ box-shadow: 10 35px 55px rgba(0, 0, 0, 0.1), -10 35px 55px rgba(0, 0, 0, 0.1);
 .container .left_Side
 {
     position: relative;
-    background: #003147;
+    background: /*#003147;*/#363c48;
     padding: 40px;
 }
 .profileText
@@ -124,7 +124,7 @@ box-shadow: 10 35px 55px rgba(0, 0, 0, 0.1), -10 35px 55px rgba(0, 0, 0, 0.1);
 }
 .contactInfo.education h5 
 {
-    color: #003147;
+    color: #2a7da2;;
     font-weight: 500;
 }
 
