@@ -31,7 +31,7 @@ box-shadow: 10 35px 55px rgba(0, 0, 0, 0.1), -10 35px 55px rgba(0, 0, 0, 0.1);
 .container .left_Side
 {
     position: relative;
-    background: #ff7948; /*#003147;*/
+    background: #003147;
     padding: 40px;
 }
 .profileText
@@ -73,7 +73,7 @@ box-shadow: 10 35px 55px rgba(0, 0, 0, 0.1), -10 35px 55px rgba(0, 0, 0, 0.1);
   margin-bottom: 1em;
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
-.profileText h2 spam
+.profileText h2 span
 {
     font-size: 0.8em;
     font-weight: 300;
@@ -109,7 +109,7 @@ box-shadow: 10 35px 55px rgba(0, 0, 0, 0.1), -10 35px 55px rgba(0, 0, 0, 0.1);
     display: inline-block;
     width: 18px;
     font-size: 18px;
-    color:#003147;
+    color:#03a9f4;
 }
 
 .contactInfo ul li span
